@@ -1,0 +1,59 @@
+
+/* Header Style*/
+body{
+    margin: 0;
+}
+
+header{
+    background-color: ;
+    text-align: center;
+    background-size: cover;
+    background-blend-mode: saturation;
+}
+
+header h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Mali', cursive;
+    
+}
+
+header h2{
+    font-family: 'Square Peg', cursive;
+    font-size: 40px;
+}
+
+header img{
+    border-radius: 150px;
+    border: 5px solid black;
+}
+
+/* Was ist das???*/
+main{
+    max-width: 800px;
+    
+}
+
+/* Body Style*/
+body{
+    /*background-image: linear-gradient(to right, #FFAC1C , #F88379);*/
+}
+
+body img{
+    border-radius: 50%;
+    max-height: 250px;
+}
+
+
+/* Footer Style*/
+footer{
+    color:beige;
+    font-family: 'Mali', cursive;
+    text-align: center;
+    background-image: linear-gradient(to right, #FFAC1C , #F88379);
+}
+
+footer ul{
+    list-style-type: none;
+    text-align: left;
+}
